@@ -1,5 +1,6 @@
-### 🪲 unbelievable I have a README file ✨ 
-![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=sancg&show_icons=true&theme=gruvbox)
+### 🪲 Unbelievable I have a README file ✨ 
+- ⚡ Fun fact: Programming is like...
+<!-- ![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=sancg&show_icons=true&theme=gruvbox)
 <!--
 **sancg/sancg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
